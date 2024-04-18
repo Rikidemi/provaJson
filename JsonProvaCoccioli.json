@@ -1,58 +1,60 @@
 {
-  "Coccioli": [
-    {
-      "coccioloID": "c7",
-      "coccioloName": "Cocciolo Rosso",
-      "coccioloScore": 99,
-      "coccioloSprite": "image/cocciolo.png",
-      "coccioloFamily": "plastica",
-      "ownerHistory": [ "user123", "user456", "user789" ],
-      "ownerName": "user789"
-    },
-    {
-      "coccioloID": "c9",
-      "coccioloName": "Cocciolo Blu",
-      "coccioloScore": 92,
-      "coccioloSprite": "image/cocciolo_blu.png",
-      "coccioloFamily": "vetro",
-      "ownerHistory": [ "user789", "user101", "user202" ],
-      "ownerName": "user202"
-    },
-    {
-      "coccioloID": "c1",
-      "coccioloName": "Plasticottolo",
-      "coccioloScore": 90,
-      "coccioloSprite": "image/cocciolo_blu.png",
-      "coccioloFamily": "plastica",
-      "ownerHistory": [ "user789", "user101", "user202" ],
-      "ownerName": "user100"
-    },
-    {
-      "coccioloID": "c2",
-      "coccioloName": "Cartume",
-      "coccioloScore": 80,
-      "coccioloSprite": "image/cocciolo_blu.png",
-      "coccioloFamily": "carta",
-      "ownerHistory": [ "user789", "user101", "user202" ],
-      "ownerName": "user200"
-    },
-    {
-      "coccioloID": "c3",
-      "coccioloName": "Vetrolo",
-      "coccioloScore": 70,
-      "coccioloSprite": "image/cocciolo_blu.png",
-      "coccioloFamily": "vetro",
-      "ownerHistory": [ "user789", "user101", "user202" ],
-      "ownerName": "user300"
-    },
-    {
-      "coccioloID": "c4",
-      "coccioloName": "Allume",
-      "coccioloScore": 60,
-      "coccioloSprite": "image/cocciolo_blu.png",
-      "coccioloFamily": "alluminio",
-      "ownerHistory": [ "user789", "user101", "user202" ],
-      "ownerName": "user400"
-    }
-  ]
+  "Test": {  
+    "Coccioli": [
+      {
+        "coccioloID": "c7",
+        "coccioloName": "Cocciolo Rosso",
+        "coccioloScore": 99,
+        "coccioloSprite": "image/cocciolo.png",
+        "coccioloFamily": "plastica",
+        "ownerHistory": [ "user123", "user456", "user789" ],
+        "ownerName": "user789"
+      },
+      {
+        "coccioloID": "c9",
+        "coccioloName": "Cocciolo Blu",
+        "coccioloScore": 92,
+        "coccioloSprite": "image/cocciolo_blu.png",
+        "coccioloFamily": "vetro",
+        "ownerHistory": [ "user789", "user101", "user202" ],
+        "ownerName": "user202"
+      },
+      {
+        "coccioloID": "c1",
+        "coccioloName": "Plasticottolo",
+        "coccioloScore": 90,
+        "coccioloSprite": "image/cocciolo_blu.png",
+        "coccioloFamily": "plastica",
+        "ownerHistory": [ "user789", "user101", "user202" ],
+        "ownerName": "user100"
+      },
+      {
+        "coccioloID": "c2",
+        "coccioloName": "Cartume",
+        "coccioloScore": 80,
+        "coccioloSprite": "image/cocciolo_blu.png",
+        "coccioloFamily": "carta",
+        "ownerHistory": [ "user789", "user101", "user202" ],
+        "ownerName": "user200"
+      },
+      {
+        "coccioloID": "c3",
+        "coccioloName": "Vetrolo",
+        "coccioloScore": 70,
+        "coccioloSprite": "image/cocciolo_blu.png",
+        "coccioloFamily": "vetro",
+        "ownerHistory": [ "user789", "user101", "user202" ],
+        "ownerName": "user300"
+      },
+      {
+        "coccioloID": "c4",
+        "coccioloName": "Allume",
+        "coccioloScore": 60,
+        "coccioloSprite": "image/cocciolo_blu.png",
+        "coccioloFamily": "alluminio",
+        "ownerHistory": [ "user789", "user101", "user202" ],
+        "ownerName": "user400"
+      }
+    ]
+  }
 }
