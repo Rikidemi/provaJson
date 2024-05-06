@@ -1,4 +1,4 @@
 {
-  "Test": "{\"Question\":\"Qual è l'ordine corretto dei processi nel riciclo della plastica?\",\"Answers\":[\"selezione\",\"produzione\",\"granuli\",\"raccolta\",\"utilizzo\"],\"rightAnsw\":[\"raccolta\",\"selezione\",\"granuli\",\"produzione\",\"utilizzo\"]}"
+  "Test": "{\"Question\":\"Premi in ordine i processi di riciclo della plastica\",\"Answers\":[\"selezione\",\"produzione\",\"granuli\",\"raccolta\",\"utilizzo\"],\"rightAnsw\":[\"raccolta\",\"selezione\",\"granuli\",\"produzione\",\"utilizzo\"]}"
 }
 
