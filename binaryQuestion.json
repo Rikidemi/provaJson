@@ -1,4 +1,8 @@
 {
-  "binaryQuest": "{\"question\":\"In base a quello che hai imparato dai cartelloni infografici presenti nel percorso Trai l Valley,loren ipsus eccc........?\",\"answerA\":\"risposta giusta\",\"answerB\":\"risposta sbagliata\",\"rightAnswer\":\"a\"}"
+    "binaryQuest": {
+        "question": "In base a quello che hai imparato dai cartelloni infografici presenti nel percorso Trai l Valley,loren ipsus eccc........?",
+        "answerA": "risposta giusta",
+        "answerB": "risposta sbagliata",
+        "rightAnswer": "a"
+    }
 }
-
